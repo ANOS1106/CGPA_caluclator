@@ -27,7 +27,7 @@ Command Line Interface (CLI) – Simple text-based user interaction for input/ou
 2. Compile the `CGPA_calculator.cpp` file using a C++ compiler:
 
 ---
-##Example for Use
+## Example for Use
 🎓 CGPA Calculator
 ------------------------
 Enter the number of semesters: 3
